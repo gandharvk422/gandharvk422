@@ -6,7 +6,7 @@
 <br>
 <br>
 
-**My Passions:**
+## My Passions:
 
 
 
@@ -15,7 +15,7 @@ I'm deeply passionate about *Programming*. It's more than just typing code—it'
 <br>
 <br>
 
-**My Skills:**
+## My Skills:
 
 
 
@@ -25,7 +25,7 @@ Over the years, I've honed my skills in *Python, Deep Learning, Machine Learning
 <br>
 
 
-**My Projects:**
+## My Projects:
 
 
 
@@ -46,7 +46,7 @@ These projects have allowed me to *Sharpen my problem-solving abilities by navig
 <br>
 
 
-**Connect with Me:**
+## Connect with Me:
 
 
 

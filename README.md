@@ -19,7 +19,7 @@ I'm deeply passionate about *Programming*. It's more than just typing code—it'
 
 
 
-Over the years, I've honed my skills in *Python, Deep Learning, Machine Learning and Front End Web Development*. I'm proficient in *Python* and have a strong understanding of [Creating Machine Learning Algorithms](https://github.com/gandharvk422/Machine_Learning_A-Z). I'm always eager to learn new things and expand my skillset, particularly in *[Machine Learning](https://github.com/gandharvk422/Machine_Learning_A-Z)* & *Artificial Intelligence*.
+Over the years, I've honed my skills in *Python, Deep Learning, Machine Learning and Front End Web Development*. I'm proficient in *Python* and have a strong understanding of [Creating Machine Learning Algorithms](https://github.com/gandharvk422/Machine_Learning_A-Z)✨. I'm always eager to learn new things and expand my skillset, particularly in *[Machine Learning](https://github.com/gandharvk422/Machine_Learning_A-Z)* & *Artificial Intelligence*.
 <br>
 <br>
 <br>

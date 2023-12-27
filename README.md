@@ -3,6 +3,8 @@
   I'm glad you're here. This is a little corner of the internet where I share my story, my passions, and my projects.
 
 <br>
+<br>
+<br>
 
 **My Passions:**
 

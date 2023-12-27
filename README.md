@@ -12,12 +12,16 @@
 
 I'm deeply passionate about *Programming*. It's more than just typing code—it's about creating worlds, solving puzzles, and orchestrating logic. Each line of code is a brushstroke, a building block, a note in a symphony that brings ideas to life. It's a constant learning journey, with new languages, frameworks, and challenges always on the horizon. It's a field that demands creativity, problem-solving, and a touch of magic. ✨
 <br>
+<br>
+<br>
 
 **My Skills:**
 
 
 
 Over the years, I've honed my skills in *Python, Deep Learning, Machine Learning and Front End Web Development*. I'm proficient in *Python* and have a strong understanding of [Creating Machine Learning Algorithms](https://github.com/gandharvk422/Machine_Learning_A-Z). I'm always eager to learn new things and expand my skillset, particularly in *[Machine Learning](https://github.com/gandharvk422/Machine_Learning_A-Z)* & *Artificial Intelligence*.
+<br>
+<br>
 <br>
 
 
@@ -32,9 +36,13 @@ I'm excited to share some of the projects I've been working on:
 * [Facial Emotions Detection](https://github.com/gandharvk422/Facial_Emotions_Detection): *Unveiling the Inner World: Decoding facial expressions with AI to bridge the gap between emotions and technology. ✨*
 * [Blindness Detection](https://github.com/gandharvk422/Blindness_Detection): *Leveraging AI to detect vision loss before it steals sight. ️️✨*
 <br>
+<br>
+<br>
 
 
 These projects have allowed me to *Sharpen my problem-solving abilities by navigating technical hurdles and optimizing algorithms for performance and efficiency*. I'm always looking for new challenges and opportunities to put my skills to the test, so if you have any interesting projects in mind, feel free to reach out!
+<br>
+<br>
 <br>
 
 

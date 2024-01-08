@@ -31,7 +31,7 @@ Over the years, I've honed my skills in *Python, Deep Learning, Machine Learning
 
 I'm excited to share some of the projects I've been working on:
 
-* [My Personal Portfolio Website](https://github.com/gandharvk422/Portfolio): *Crafting a digital haven that showcases my skills and passions with captivating design and cutting-edge technologies.*
+* [My Personal Portfolio Website](https://github.com/gandharvk422/Portfolio): *Crafting a digital haven that showcases my skills and passions with captivating design and cutting-edge technologies. [Live Preview](https://gandharvk422.github.io)*
 * [Face Detection](https://github.com/gandharvk422/Face-Detection): *Delving into the power of face recognition technology to explore its potential for security, accessibility, and creative applications.*
 * [Facial Emotions Detection](https://github.com/gandharvk422/Facial_Emotions_Detection): *Unveiling the Inner World: Decoding facial expressions with AI to bridge the gap between emotions and technology. ✨*
 * [Blindness Detection](https://github.com/gandharvk422/Blindness_Detection): *Leveraging AI to detect vision loss before it steals sight. ️️✨*

@@ -51,8 +51,8 @@ These projects have allowed me to *Sharpen my problem-solving abilities by navig
 
 
 I'm always happy to connect with others who share my interests. You can find me on:
-* [LinkedIn](https://linkedin/in/gandharvk422).
-* [LeetCode](https://leetcode.com/gandharvk422).
-* [CodeForces](https://codeforces.com/profile/gandharvk422).
+* <a href="https://linkedin/in/gandharvk422" target="_blank">LinkedIn</a>.
+* <a href="https://leetcode.com/gandharvk422" target="_blank">LeetCode</a>.
+* <a href="https://codeforces.com/profile/gandharvk422" target="_blank">CodeForces</a>.
 
 Thanks for taking the time to get to know me! I hope you'll stick around and explore more of what I have to offer.

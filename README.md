@@ -40,7 +40,7 @@ I'm excited to share some of the projects I've been working on:
 <br>
 
 
-These projects have allowed me to *Sharpen my problem-solving abilities by navigating technical hurdles and optimizing algorithms for performance and efficiency*. I'm always looking for new challenges and opportunities to put my skills to the test, so if you have any interesting projects in mind, feel free to reach out!
+These projects have allowed me to *Sharpen my problem-solving abilities by navigating technical hurdles and optimizing algorithms for performance and efficiency*. I'm always looking for new challenges and opportunities to put my skills to the test, so if you have any interesting projects in mind, feel free to reach out
 <br>
 <br>
 <br>
@@ -51,9 +51,9 @@ These projects have allowed me to *Sharpen my problem-solving abilities by navig
 
 
 I'm always happy to connect with others who share my interests. You can find me on:
-* ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-* ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
-* ![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)
-* ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
+* [LinkedIn](https://linkedin.com/in/gandharvk422)
+* [LeetCode](https://leetcode.com/gandharvk422)
+* [Codeforces](https://codeforces.com/gandharvk422)
+* [FreeCodeCamp](https://freecodecamp.org/gandharvk422)
 
-Thanks for taking the time to get to know me! I hope you'll stick around and explore more of what I have to offer.
+Thanks for taking the time to get to know me I hope you'll stick around and explore more of what I have to offer.

@@ -29,6 +29,11 @@ Over the years, I've honed my skills in *Python, Deep Learning, Machine Learning
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white)
+![](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)
+![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 
 ## My Projects:
@@ -60,6 +65,6 @@ I'm always happy to connect with others who share my interests. You can find me 
 * [<svg xmlns="http://www.w3.org/2000/svg" height="16" width="14" viewBox="0 0 448 512"></svg>](https://linkedin.com/in/gandharvk422)
 * [LeetCode](https://leetcode.com/gandharvk422)
 * [CodeForces](https://codeforces.com/profile/gandharvk422)
-* [FreeCodeCamp](https://freecodecamp.org/gandharvk422)
+* [![](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://freecodecamp.org/gandharvk422)
 
 Thanks for taking the time to get to know me I hope you'll stick around and explore more of what I have to offer.

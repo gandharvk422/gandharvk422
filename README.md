@@ -49,8 +49,9 @@ These projects have allowed me to *Sharpen my problem-solving abilities by navig
 ## Connect with Me:
 
 
-<img src="http://www.w3.org/2000/svg" height="16" width="14" viewBox="0 0 448 512">
+
 I'm always happy to connect with others who share my interests. You can find me on:
+* <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/[ICON SLUG].svg" />
 * [LinkedIn](https://linkedin.com/in/gandharvk422)
 * [LeetCode](https://leetcode.com/gandharvk422)
 * [Codeforces](https://codeforces.com/profile/gandharvk422)

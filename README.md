@@ -51,7 +51,7 @@ These projects have allowed me to *Sharpen my problem-solving abilities by navig
 
 
 I'm always happy to connect with others who share my interests. You can find me on:
-* [&#f08c;](https://linkedin.com/in/gandharvk422)
+* [<h2>&#f08c;</h2>](https://linkedin.com/in/gandharvk422)
 * [LeetCode](https://leetcode.com/gandharvk422)
 * [CodeForces](https://codeforces.com/profile/gandharvk422)
 * [FreeCodeCamp](https://freecodecamp.org/gandharvk422)

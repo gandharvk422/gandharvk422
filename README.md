@@ -73,6 +73,7 @@ These projects have allowed me to *Sharpen my problem-solving abilities by navig
 
 
 I'm always happy to connect with others who share my interests. You can find me on:
+
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gandharvk422)
 
 [![](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/gandharvk422)

@@ -1,4 +1,4 @@
-# Hi there, I'm Gandharv! 👋
+# Hi there, I'm Gandharv! <img src="wave.gif" width="50px" height="50px">
 
 I'm a passionate developer with an interest in various technologies and a love for coding. Welcome to my GitHub profile!
 

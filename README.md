@@ -25,18 +25,11 @@ Here are some of my notable projects:
 
 ![Gandharv's GitHub stats](https://github-readme-stats.vercel.app/api?username=gandharvk422&show_icons=true&theme=radical&count_private=true)
 
-- **Total Stars Earned:** 0
-- **Total Commits (2024):** 453
-- **Total PRs (2024):** 1
-- **Total Issues (2024):** 1
-- **Contributed to (last year):** 0
-- **Total Followers:** 6
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gandharvk422&layout=compact&theme=radical&hide=cpp&langs_count=8)
 
 ## Get in Touch
 
-- **Email:** gandharvkulkarni422@gmail.com
+- **Email:** [gandharvkulkarni422@gmail.com](mailto:gandharvkulkarni422@gmail.com)
 - **LinkedIn:** [Gandharv's LinkedIn](https://linkedin.com/in/gandharvk422)
 
 Feel free to reach out if you want to collaborate on a project or just want to chat about tech!

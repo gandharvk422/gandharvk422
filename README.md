@@ -21,6 +21,10 @@ Here are some of my notable projects:
 2. **CRM SALES OPPORTUNITIES DASHBOARD:** This project provides a dashboard for tracking customer accounts, sales opportunities, and sales team performance. It supports data-driven decisions by displaying insights from CRM data in a structured format.
 3. **GOOGLE STOCK PRICE PREDICTION:** Created an LSTM-based stock price prediction model in Python using Keras and TensorFlow. Improved model accuracy by 35% through feature engineering and hyperparameter optimization. Performed time series analysis on Google stock prices, using Pandas and Scikit-Learn, reducing processing time by 20%.
 
+## GitHub Streak Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gandharvk422&theme=radical)
+
 ## GitHub Top Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gandharvk422&layout=compact&theme=radical&hide=cpp&langs_count=8)

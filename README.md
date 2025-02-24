@@ -23,11 +23,11 @@ Here are some of my notable projects:
 
 ## GitHub Streak Stats
 
-<center><img src="https://github-readme-streak-stats.herokuapp.com/?user=gandharvk422&theme=radical" alt="GitHub Streak"></center>
+  &emsp;&emsp;&emsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=gandharvk422&theme=radical" alt="GitHub Streak">
 
 ## GitHub Top Languages
 
-<center><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gandharvk422&layout=compact&theme=radical&hide=cpp&langs_count=8" alt="Top Langs"></center>
+  &emsp;&emsp;&emsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gandharvk422&layout=compact&theme=radical&hide=cpp&langs_count=8" alt="Top Langs">
 
 ## Get in Touch
 

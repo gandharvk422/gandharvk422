@@ -34,6 +34,18 @@ Here are some of my notable projects:
 - **Email:** [gandharvkulkarni422@gmail.com](mailto:gandharvkulkarni422@gmail.com)
 - **LinkedIn:** [Gandharv's LinkedIn](https://linkedin.com/in/gandharvk422)
 
+## Tech Profiles
+
+[![](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/gandharvk422)
+
+[![](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/gandharvk422)
+
+[DeepML](https://www.deep-ml.com/profile/jzXdkWBjhIQqispbblxxRQoZlOm1)
+
+[AIcrowd](https://www.aicrowd.com/participants/gandharvk422)
+
+[MachineHack](https://machinehack.com/user/65dd51b822401c0019068cb6)
+
 Feel free to reach out if you want to collaborate on a project or just want to chat about tech!
 
 Thanks for stopping by! 😊

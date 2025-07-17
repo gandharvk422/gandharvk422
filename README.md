@@ -10,7 +10,7 @@ I'm a passionate developer with an interest in various technologies and a love f
 ## Skills
 
 - **Languages:** Python, R, JavaScript, C++, SQL
-- **Frameworks:** Bootstrap, Streamlit
+- **Frameworks:** Bootstrap, Streamlit, Django
 - **Tools:** Git, MS Excel, PowerBI, Tableau, Jupyter Notebook, VS Code
 
 ## Projects

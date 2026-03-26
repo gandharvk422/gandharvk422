@@ -1,51 +1,18 @@
-# Hi there, I'm Gandharv! <img src="wave.gif" width="50px" height="50px">
+# 💫 About Me:
+ I am an Artificial Intelligence undergraduate with hands-on experience in building real-world AI/ML and software solutions, currently working as a Programmer Analyst Trainee at Cognizant. I have developed scalable backend systems, including a multi-role stock portfolio management platform with secure authentication and efficient API architecture, while also gaining strong exposure to full-stack development and enterprise workflows.<br><br>My core strength lies in applying machine learning and data-driven techniques to solve practical problems. During my internship at Skyhighes Technologies, I worked on multiple ML projects achieving up to 85% accuracy, spanning areas like computer vision, recommendation systems, and reinforcement learning. I have also built end-to-end pipelines, including data preprocessing, model development, and deployment-ready solutions, supported by tools like Python, TensorFlow, PyTorch, and SQL.<br><br>I am particularly interested in combining AI with real-world applications—whether it’s predicting customer behavior, detecting crop diseases, or building intelligent dashboards. With a strong foundation in data structures, algorithms, and statistical modeling, I focus on writing efficient, scalable, and impactful solutions.<br><br>Driven by continuous learning and problem-solving, I aim to grow into a role where I can contribute to building intelligent systems that create measurable value.
 
-I'm a passionate developer with an interest in various technologies and a love for coding. Welcome to my GitHub profile!
 
-## About Me
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gandharvk422) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gandharvkulkarni422@gmail.com) 
 
-- **Name:** Gandharv Kulkarni
-- **Username:** gandharvk422
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=gandharvk422&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=gandharvk422&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gandharvk422&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## Skills
+---
+[![](https://visitcount.itsvg.in/api?id=gandharvk422&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- **Languages:** Python, R, JavaScript, C++, SQL
-- **Frameworks:** Bootstrap, Streamlit, Django
-- **Tools:** Git, MS Excel, PowerBI, Tableau, Jupyter Notebook, VS Code
-
-## Projects
-
-Here are some of my notable projects:
-
-1. **CIFAR-10 Image Classification with CNN:** This project was developed as a task assigned by SkyHighes Technologies. The main objective was to create a Convolutional Neural Network (CNN) model to classify images from the CIFAR-10 dataset. In addition to the model, I have developed a Streamlit web application named CIFARInsight - Decode Your Images to provide an interactive platform for users to upload images and receive predictions based on the trained model. This web application was created to enhance my resume and demonstrate my skills in deploying machine learning models.
-2. **CRM SALES OPPORTUNITIES DASHBOARD:** This project provides a dashboard for tracking customer accounts, sales opportunities, and sales team performance. It supports data-driven decisions by displaying insights from CRM data in a structured format.
-3. **GOOGLE STOCK PRICE PREDICTION:** Created an LSTM-based stock price prediction model in Python using Keras and TensorFlow. Improved model accuracy by 35% through feature engineering and hyperparameter optimization. Performed time series analysis on Google stock prices, using Pandas and Scikit-Learn, reducing processing time by 20%.
-
-## GitHub Streak Stats
-
-  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=gandharvk422&theme=radical" alt="GitHub Streak">
-
-## GitHub Top Languages
-
-  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gandharvk422&layout=compact&theme=radical&hide=cpp&langs_count=8" alt="Top Langs">
-
-## Get in Touch
-
-- **Email:** [gandharvkulkarni422@gmail.com](mailto:gandharvkulkarni422@gmail.com)
-- **LinkedIn:** [Gandharv's LinkedIn](https://linkedin.com/in/gandharvk422)
-
-## Tech Profiles
-
-[![](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/gandharvk422)
-
-[![](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/gandharvk422)
-
-[DeepML](https://www.deep-ml.com/profile/jzXdkWBjhIQqispbblxxRQoZlOm1)
-
-[AIcrowd](https://www.aicrowd.com/participants/gandharvk422)
-
-[MachineHack](https://machinehack.com/user/65dd51b822401c0019068cb6)
-
-Feel free to reach out if you want to collaborate on a project or just want to chat about tech!
-
-Thanks for stopping by! 😊
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

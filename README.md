@@ -1,18 +1,29 @@
-# 💫 About Me:
- I am an Artificial Intelligence undergraduate with hands-on experience in building real-world AI/ML and software solutions, currently working as a Programmer Analyst Trainee at Cognizant. I have developed scalable backend systems, including a multi-role stock portfolio management platform with secure authentication and efficient API architecture, while also gaining strong exposure to full-stack development and enterprise workflows.<br><br>My core strength lies in applying machine learning and data-driven techniques to solve practical problems. During my internship at Skyhighes Technologies, I worked on multiple ML projects achieving up to 85% accuracy, spanning areas like computer vision, recommendation systems, and reinforcement learning. I have also built end-to-end pipelines, including data preprocessing, model development, and deployment-ready solutions, supported by tools like Python, TensorFlow, PyTorch, and SQL.<br><br>I am particularly interested in combining AI with real-world applications—whether it’s predicting customer behavior, detecting crop diseases, or building intelligent dashboards. With a strong foundation in data structures, algorithms, and statistical modeling, I focus on writing efficient, scalable, and impactful solutions.<br><br>Driven by continuous learning and problem-solving, I aim to grow into a role where I can contribute to building intelligent systems that create measurable value.
+# Hi, I'm Gandharv 👋
 
+AI/ML engineer from Pune. I build and ship ML and LLM systems end to end: data, model, API, deployment. Currently working on how to **measure** whether a RAG system actually works.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gandharvk422) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gandharvkulkarni422@gmail.com) 
+## Featured projects
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=gandharvk422&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=gandharvk422&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gandharvk422&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+**[Chat with Your Docs](https://github.com/gandharvk422/chat-with-your-docs)** · RAG app, live demo
+Upload a PDF, DOCX, PPTX, TXT, MD or CSV and get answers grounded only in that document, with file and page citations.
+Hybrid BM25 + vector search, cross-encoder reranking, local `bge-small` embeddings in ChromaDB, Groq `gpt-oss-120b`. FastAPI + React, deployed on Render and Vercel.
+*In progress:* an eval harness (34 questions across 5 documents, including unanswerable ones) to compare retrieval setups with numbers.
 
----
-[![](https://visitcount.itsvg.in/api?id=gandharvk422&icon=0&color=0)](https://visitcount.itsvg.in)
+**[End-to-End ML Pipeline for Regression](https://github.com/gandharvk422/housing-price-predictor)** · MLOps
+FastAPI, Docker, MLflow and GitHub Actions. Compared 6 regression models; tuned XGBoost reached R² 0.905 (5-fold CV mean 0.890). Prediction API with automated CI checks.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**[Crop Disease Detection (e-Yantra)](https://github.com/krishisamruddhi/krishisamruddhi.github.io)** · Computer vision
+CNN detecting 42 crop diseases at about 80% accuracy, deployed as a Django web app for real-time prediction from images. Built with a team; lives in our e-Yantra GitHub account.
+
+## Experience
+
+- **Programmer Analyst Trainee, Cognizant** (Nov 2025 – Apr 2026): 10+ REST APIs in C# and Entity Framework with JWT auth for a multi-role stock portfolio system.
+- **AI/ML Intern, Skyhighes Technologies** (Jun – Dec 2024): CNN on CIFAR-10 at 85.2% accuracy; cut preprocessing from 18s to 7s per batch.
+
+## Stack I use most
+
+Python · PyTorch · scikit-learn · LangChain · FastAPI · Docker · MLflow · GitHub Actions · React · SQL
+
+## Find me
+
+[LinkedIn](https://linkedin.com/in/gandharvk422) · [Kaggle](https://www.kaggle.com/gandharvk422) · [LeetCode](https://www.leetcode.com/gandharvk422) · gandharvkulkarni422@gmail.com
